@@ -1,2 +1,12 @@
-# Purest-Bank
-Purest Bank allows you to check balances for free
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+*.db
